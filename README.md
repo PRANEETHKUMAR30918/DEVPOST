@@ -1,34 +1,68 @@
-🎯 FundVision – Smart Mutual Fund Recommendation System
-🧩 Problem Statement
-Traditional mutual fund selection methods can be overwhelming and impersonal. Investors struggle to find the best options that align with their salary, investment capacity, risk appetite, and long-term goals.
+<h1 align="center">🚀 FundVision</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/backend-SpringBoot-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/frontend-React-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML-Enabled-orange?style=flat-square" />
+  <img src="https://img.shields.io/github/license/your-username/FundVision?style=flat-square" />
+</p>
 
-💡 We aim to simplify this process using Machine Learning — making mutual fund investing smarter, faster, and tailored to each user.
+<p align="center">
+  <b>AI-powered platform to track, predict, and visualize fund performance.</b><br>
+  <i>Your all-in-one solution for intelligent financial health diagnostics.</i>
+</p>
 
-🛠️ Our Approach
-We designed a system that:
+---
 
-🔍 Collects user data (name, salary, investment amount, risk type, goals)
-🤖 Uses ML to recommend funds that fit the user profile
-📊 Displays key fund insights: NAV, returns, risk levels, comparisons
-✨ Solution Highlights
-💻 Built with an interactive React frontend
-🧱 Modular architecture ready for scalable ML integration
-📱 Fully responsive dashboard with visual insights and comparisons
-🚀 Features You’ll Love
-✅ Feature	Description
-Smart Recommendation Form	User inputs drive tailored suggestions
-NAV & Performance Charts	Easy-to-read fund performance metrics
-Fund Ratings & Risk Indicators	Transparent and clear
-Side-by-Side Fund Comparisons	Compare multiple funds quickly
-Investment Summary Dashboard	All-in-one view of your recommendations
-Lightweight & Responsive UI	Works seamlessly across devices
-🧰 Tech Stack
-📂 Category	🔧 Technology
-Frontend	React + TypeScript
-Build Tool	Vite
-Styling	Tailwind CSS
-CSS Engine	PostCSS
-Linting	ESLint
-ML Model	Random Forest
-📸 Project Snapshots
-Fund Dashboard	Recommendations	Comparison Chart	Summary View
+## 🧠 What is FundVision?
+
+**FundVision** is a smart financial analytics dashboard that combines machine learning, backend intelligence, and a clean UI to provide:
+
+- 📊 Real-time insights on fund performance  
+- 🧮 Predictive analytics for financial planning  
+- 🧠 ML-powered anomaly detection and alerts  
+- 📉 Degradation tracking and circular economy insights  
+- 🌱 Sustainable investment recommendations
+
+Whether you're a financial analyst, portfolio manager, or investor, FundVision brings clarity and intelligence to your financial ecosystem.
+
+---
+
+## 🎯 Key Highlights
+
+✨ **Interactive Dashboard** — Clean, responsive UI for a better data experience  
+🧠 **ML & Predictive Modeling** — Built-in AI models for performance forecasting  
+📈 **Real-time Data Processing** — Integrated backend APIs for instant insights  
+🔐 **Secure & Scalable** — Designed for future growth and security  
+♻️ **Sustainability Insights** — Circular economy metrics and battery degradation tracking  
+
+---
+
+## 🧰 Tech Stack
+
+| Layer         | Technologies Used                        |
+|---------------|------------------------------------------|
+| Frontend      | React.js, Tailwind CSS, Chart.js         |
+| Backend       | Java, Spring Boot, REST APIs             |
+| Database      | MySQL / PostgreSQL                       |
+| ML/AI         | Python, Scikit-learn, TensorFlow         |
+| DevOps        | Docker, GitHub Actions, Postman          |
+| Version Control | Git, GitHub                             |
+
+---
+
+
+
+## ⚙️ Installation & Setup
+
+### 🧩 Prerequisites
+- Java 17+
+- Node.js 18+
+- MySQL / PostgreSQL
+- Python 3.x
+
+### 🧪 Backend (Spring Boot)
+
+```bash
+cd backend/
+./mvnw spring-boot:run
