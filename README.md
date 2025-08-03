@@ -45,9 +45,8 @@ Whether you're a financial analyst, portfolio manager, or investor, FundVision b
 | Frontend      | React.js, Tailwind CSS, Chart.js         |
 | Backend       | Java, Spring Boot, REST APIs             |
 | Database      | MySQL                                    |
-| ML/AI         | Python, Scikit-learn, TensorFlow         |
-| DevOps        | Docker, GitHub Actions, Postman          |
-| Version Control | Git, GitHub                             |
+| ML/AI         | Python, Scikit-learn                     |
+| Version Control | Git, GitHub                            |
 
 ---
 
